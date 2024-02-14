@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{6F250FE5-CDE1-4D55-8B04-265E5C217499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{FD9A9086-73C7-4A57-A10E-BA2CD89DBE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{A401DFC9-7AF0-4191-907E-7DDD6973D046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F250FE5-CDE1-4D55-8B04-265E5C217499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F250FE5-CDE1-4D55-8B04-265E5C217499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F250FE5-CDE1-4D55-8B04-265E5C217499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F250FE5-CDE1-4D55-8B04-265E5C217499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9A9086-73C7-4A57-A10E-BA2CD89DBE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9A9086-73C7-4A57-A10E-BA2CD89DBE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9A9086-73C7-4A57-A10E-BA2CD89DBE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9A9086-73C7-4A57-A10E-BA2CD89DBE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A401DFC9-7AF0-4191-907E-7DDD6973D046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A401DFC9-7AF0-4191-907E-7DDD6973D046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A401DFC9-7AF0-4191-907E-7DDD6973D046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A401DFC9-7AF0-4191-907E-7DDD6973D046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6906DEAC-F2BC-4778-8ABC-CFD626E69258}
+	EndGlobalSection
+EndGlobal
